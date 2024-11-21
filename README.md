@@ -1,4 +1,3 @@
-#English
 # IMC Calculator with CustomTkinter
 
 ## 🚀 Description
