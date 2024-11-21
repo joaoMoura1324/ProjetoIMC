@@ -29,12 +29,11 @@ The application allows you to:
 
 ### Main Screen
 
-[image](https://github.com/user-attachments/assets/beb52575-fe94-4580-809a-57ce80844279)
-
+![Main Screen](https://github.com/user-attachments/assets/beb52575-fe94-4580-809a-57ce80844279)
 
 ### User List
 
-[image](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
+![User List](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
 
 ---
 
@@ -60,3 +59,4 @@ Special thanks to the **CustomTkinter** team for their excellent library, which 
 
 - **English**
 - **Portuguese**
+
