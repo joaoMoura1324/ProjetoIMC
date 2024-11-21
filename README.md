@@ -30,12 +30,12 @@ The application allows you to:
 
 ### Main Screen
 
-![Main Screen]![image](https://github.com/user-attachments/assets/beb52575-fe94-4580-809a-57ce80844279)
+[image](https://github.com/user-attachments/assets/beb52575-fe94-4580-809a-57ce80844279)
 
 
 ### User List
 
-![User List]![image](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
+[image](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
 
 ---
 
@@ -61,68 +61,3 @@ Special thanks to the **CustomTkinter** team for their excellent library, which 
 
 - **English**
 - **Portuguese**
-
----
-
-# Calculadora de IMC com CustomTkinter
-
-## 🚀 Descrição
-
-Este projeto é uma **Aplicação Gráfica de Cálculo de IMC (Índice de Massa Corporal)** desenvolvida em **Python** utilizando a biblioteca **CustomTkinter** para a interface gráfica e **SQLite** como banco de dados para armazenar os dados dos utilizadores.
-
-A aplicação permite que você:
-- Calcule o IMC de um utilizador com base no peso e altura.
-- Crie, visualize e elimine utilizadores no banco de dados.
-
-**Principais Funcionalidades:**
-- **Calcular IMC**: Insira o nome do utilizador e calcule o IMC com base nos dados armazenados.
-- **Criar Utilizador**: Crie um novo utilizador com nome, idade, peso e altura.
-- **Mostrar Utilizadores**: Veja todos os utilizadores no banco de dados.
-- **Eliminar Utilizador**: Elimine um utilizador específico da lista.
-- **Alternar Idioma**: A aplicação suporta alternância entre **Português** e **Inglês**.
-
----
-#Português
-
-## 🛠 Tecnologias Utilizadas
-
-- **Python**: Linguagem principal utilizada para o desenvolvimento.
-- **CustomTkinter**: Biblioteca utilizada para criar interfaces gráficas modernas e personalizáveis.
-- **SQLite**: Banco de dados utilizado para armazenar informações dos utilizadores, como nome, idade, peso e altura.
-
----
-
-## 📸 Capturas de Tela
-
-### Tela Principal
-
-![Main Screen]![image](https://github.com/user-attachments/assets/beb52575-fe94-4580-809a-57ce80844279)
-
-### Lista de Utilizadores
-
-![User List]![image](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
-
----
-
-## 📝 Contribuições
-
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga as diretrizes de contribuição da plataforma.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
-
-## 🏆 Agradecimentos
-
-Agradecimentos especiais à equipe **CustomTkinter** pela excelente biblioteca, que facilitou muito o desenvolvimento deste projeto!
-
----
-
-## 🌍 Idiomas Suportados
-
-- **Inglês**
-- **Português**
