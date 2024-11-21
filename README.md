@@ -35,6 +35,14 @@ The application allows you to:
 
 ![User List](https://github.com/user-attachments/assets/4f76044d-f23c-48ea-8b05-13a21002bf57)
 
+### Create User
+
+![Create User](https://github.com/user-attachments/assets/bae2633b-141b-4a2a-b2a9-c8f4200fae7c)
+
+### Delete User
+
+![Create User](https://github.com/user-attachments/assets/6e126cd9-78e0-4157-a279-139783d35972)
+
 ---
 
 ## 📝 Contributions
