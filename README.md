@@ -51,12 +51,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🏆 Acknowledgments
 
 Special thanks to the **CustomTkinter** team for their excellent library, which made the development of this project much easier!
